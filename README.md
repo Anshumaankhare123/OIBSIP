@@ -2,4 +2,4 @@
 
 # Number Guessing Game
 
-![image](https://github.com/Anshumaankhare123/OIBSIP/assets/94692766/07dc5efd-1721-4eaf-af41-e9143d95fceb)
+![Screenshot (1)](https://github.com/Anshumaankhare123/OIBSIP/assets/94692766/26304a3d-4d9d-4e6f-beee-be96d28095bc)
